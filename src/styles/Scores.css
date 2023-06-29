@@ -1,0 +1,8 @@
+.score-container {
+    display: flex;
+
+}
+
+.score {
+    width: 40vmin;
+}
